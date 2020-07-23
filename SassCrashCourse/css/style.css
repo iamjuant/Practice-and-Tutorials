@@ -23,8 +23,8 @@ a {
 .showcase {
   /*     background-color: $primary-color;
     color: set-text-color($primary-color); */
-  background-color: #0e6cff;
-  color: #fff;
+  background-color: #cfebd1;
+  color: #333;
   height: 600px;
 }
 
@@ -44,7 +44,7 @@ a {
 }
 
 .showcase nav a {
-  color: #fff;
+  color: #333;
 }
 
 .showcase nav a:hover {
@@ -168,8 +168,8 @@ a {
 
 .btn-primary {
   /*     background-color: lighten($primary-color, 10%); */
-  background-color: #418bff;
-  color: #fff;
+  background-color: #f3faf4;
+  color: #333;
 }
 
 .btn-secondary {
