@@ -1,0 +1,13 @@
+#type in directory to create a package.json
+npm init -y
+
+#then install react and react dom
+npm install react react-dom
+
+#create .gitignore with node_modules and dist
+
+
+#install webpack babel html-webpack-plugin and loaders for css, babel, dev-server, style
+
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
+
